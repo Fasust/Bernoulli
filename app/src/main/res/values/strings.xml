@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bernoulli</string>
+    <string name="action_settings">Settings</string>
+    <string name="wahrscheinlichkeit">Wahrscheinlichkeit</string>
+    <string name="genauKmal">Wahrscheinlichkeit das bei n Versuchen ein Ereignis mit p Warscheinlichkeit k mal eintritt</string>
+    <string name="bisZuKmal">Wahrscheinlichkeit das bei n Versuchen ein Ereignis mit p Warscheinlichkeit bis zu k mal eintritt</string>
+
+</resources>
